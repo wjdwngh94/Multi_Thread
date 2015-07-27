@@ -18,7 +18,6 @@ import java.util.Date;
  * 2015년 7월 24일 오후 [3시 45분 3초]
  * 
  * 5초가 작동되도록 하시면 됩니다.
- * 
  */
 
 class Timer extends Thread {
